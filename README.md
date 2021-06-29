@@ -2,6 +2,7 @@
 国产流氓、娱乐软件和不受欢迎的软件屏蔽工具
 其实是个很菜的东西
 
+[原始项目 https://github.com/sharoue/chinawareblock/tree/master/%E4%B8%80%E9%94%AE%E5%B1%8F%E8%94%BD%E8%BD%AF%E4%BB%B6](https://github.com/sharoue/chinawareblock/tree/master/%E4%B8%80%E9%94%AE%E5%B1%8F%E8%94%BD%E8%BD%AF%E4%BB%B6)
 
 # 制作背景
 * 由于[舞恸零一](https://liwei2.com/)开发的[流氓软件终结者3.5](https://liwei2.com/2015/11/27/378.html)已经很久没有更新，现在的流氓基本挡不住了，这个把证书防御的部分拿出来续了一下。
